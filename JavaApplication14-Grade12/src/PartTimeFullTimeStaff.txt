@@ -1,0 +1,6 @@
+Name: John Doe Employee Number: 123 Title: Part Time Staff
+Name: Alex Doe Employee Number: 124 Title: Part Time Staff
+Name: Vincent Doe Employee Number: 125 Title: Part Time Staff
+Name: Dolly Doe Employee Number: 126 Title: Full Time Staff
+Name: Kingsley Doe Employee Number: 127 Title: Full Time Staff
+Name: Happy Doe Employee Number: 128 Title: Full Time Staff
